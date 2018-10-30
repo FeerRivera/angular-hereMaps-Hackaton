@@ -1,0 +1,8 @@
+.ol {
+    float: left;
+    background-color: #FFF; 
+    width: 35%; 
+    min-height: 530px; 
+    margin-left: 20px; 
+    margin-top: 0;
+}

@@ -1,0 +1,6 @@
+<div #map [style.width]="width" [style.height]="height" style="float: left" my-7></div>
+<ol class="ol">
+    <li *ngFor="let direction of directions">
+        <p [innerHTML]="direction.instruction"></p>
+    </li>
+</ol>
